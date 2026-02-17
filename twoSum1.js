@@ -9,4 +9,4 @@ function twoSum(nums, target) {
         memory.set(currNum, i);
     }
 }
-console.log(twoSum([2,7,11,15], 9));
+console.log(twoSum([2, 8, 7, 11, 15], 9));
